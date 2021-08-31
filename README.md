@@ -4,8 +4,7 @@
 # Sobre a atividade
 Deverá ser gerada uma representação do mapa do ambiente, para que a partir deste mapa (topológico ou grade) seja então gerada 
 a sequência de pontos de navegação (waypoint). O trabalho será portanto constituído de 2 programas (duas partes), uma que
-cria o mapa e gera o plano de navegação (waypoint) e outra que faz a navegação seguindo o waypoint. A diferença para a proposta 1
-é que o mapeamento deverá ser obtido de forma automática, seguindo a geração do plano (waypoint) e da navegação.
+cria o mapa e gera o plano de navegação (waypoint) e outra que faz a navegação seguindo o waypoint.
 
 # Vídeos de Simulação
 * Mapa 1: <br>
