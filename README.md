@@ -1,4 +1,4 @@
-# mapping-and-waypoint
+# Mapping and Waypoint
 [GRAD] Trabalho final feito para a disciplina de Robôs Móveis Autônomos
 
 # Sobre a atividade
